@@ -4,9 +4,5 @@
 - 💞️ I’m looking to collaborate on college project
 - 📫 How to reach me @dek1205 on ig
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: i loke trekking
+- ⚡ Fun fact: i love trekking
 
-<!---
-dekbashyal/dekbashyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
