@@ -9,6 +9,7 @@
 💬 Feel free to connect with me about React.js, full-stack development, backend API design, or web application architecture.
 
 📫 Connect with me:
+Portfolio: https://dikshyantbashyal.com.np/
 Email: dekbashyal@gmail.com
 LinkedIn: https://www.linkedin.com/in/dikshyant-bashyal/
 Instagram: https://www.instagram.com/dek_1205/
